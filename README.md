@@ -1,3 +1,3 @@
-# Mobile-first-responsive-layout 
-Proj. 2
+# Proj. 2 Mobile-first-responsive-layout 
+
  
